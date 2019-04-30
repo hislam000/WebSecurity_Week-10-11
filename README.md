@@ -1,5 +1,5 @@
 # Weeks 10 & 11 Project: Honeypot
-GIF: ![week10 11](https://user-images.githubusercontent.com/36207058/56932115-7ae30f00-6ab0-11e9-9f1f-0a876ca4ac8b.gif)
+GIF: ![google_cloud](https://user-images.githubusercontent.com/36207058/56932198-c8f81280-6ab0-11e9-87e2-dd0128989eb3.png)
 
 ## Which Honeypot(s) you deployed
 GIF: <img width="903" alt="Honeypot" src="https://user-images.githubusercontent.com/36207058/56932218-db724c00-6ab0-11e9-9e96-06cad8a05615.png">
