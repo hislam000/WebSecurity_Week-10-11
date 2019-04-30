@@ -6,7 +6,9 @@ GIF: <img width="903" alt="Honeypot" src="https://user-images.githubusercontent.
 
 
 ## Any issues you encountered
--
+- GCP
+GIF: ![week10 11](https://user-images.githubusercontent.com/36207058/56936319-be477880-6ac4-11e9-848a-98d2a1ee3880.gif)
+
 
 ## A summary of the data collected: number of attacks, number of malware samples, etc.
 GIF: ![data_collected](https://user-images.githubusercontent.com/36207058/56932149-9221fc80-6ab0-11e9-9066-21603522e3d0.gif)
